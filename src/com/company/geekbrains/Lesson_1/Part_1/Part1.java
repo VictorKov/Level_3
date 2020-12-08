@@ -1,4 +1,4 @@
-package HWLesson1;
+package com.company.geekbrains.Lesson_1.Part_1;
 
 import java.util.Arrays;
 import java.util.Collections;

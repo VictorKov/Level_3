@@ -1,8 +1,9 @@
-package HWLesson1;
+package com.company.geekbrains.Lesson_1;
+
+import com.company.geekbrains.Lesson_1.Part_1.Part1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 public class Main {

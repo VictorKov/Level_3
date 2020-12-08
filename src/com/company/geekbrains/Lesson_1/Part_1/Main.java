@@ -1,4 +1,4 @@
-package com.company.geekbrains.Lesson_1;
+package com.company.geekbrains.Lesson_1.Part_1;
 
 import com.company.geekbrains.Lesson_1.Part_1.Part1;
 

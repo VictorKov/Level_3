@@ -16,11 +16,11 @@ public class Part1 {
 
    }
 
-   public <T> List<T> changeArrayToList(T[] arr){
+   public static <T> List<T> changeArrayToList(T[] arr){
        return Arrays.asList(arr);
    }
 
-   public void changeIndexElementOfArrays(Object[] arr, int a, int b){
+   public static void changeIndexElementOfArrays(Object[] arr, int a, int b){
 
         Object tmp = arr[a];
         arr[a] = arr[b];

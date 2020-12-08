@@ -37,6 +37,8 @@ public class Main {
 
         changeElement.changeArrayToList(arrInt);
 
+        System.out.println(arrInt);
+
 
 
     }

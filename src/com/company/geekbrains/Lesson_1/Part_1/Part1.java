@@ -1,5 +1,6 @@
 package com.company.geekbrains.Lesson_1.Part_1;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
@@ -17,7 +18,7 @@ public class Part1 {
    }
 
    public static <T> List<T> changeArrayToList(T[] arr){
-       return Arrays.asList(arr);
+       return new ArrayList<>(Arrays.asList(arr));
    }
 
    public static void changeIndexElementOfArrays(Object[] arr, int a, int b){
